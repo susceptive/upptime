@@ -4,17 +4,17 @@
     "url": "https://wftraders.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wftraders.com.ico",
     "slug": "wf-traders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2247,
-    "timeDay": 2247,
-    "timeWeek": 2247,
-    "timeMonth": 2247,
-    "timeYear": 2247,
+    "time": 6278,
+    "timeDay": 10309,
+    "timeWeek": 6278,
+    "timeMonth": 6278,
+    "timeYear": 6278,
     "dailyMinutesDown": {}
   }
 ]
