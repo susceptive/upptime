@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wftraders.com.ico",
     "slug": "wf-traders",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.06%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "96.06%",
     "time": 6278,
     "timeDay": 10309,
     "timeWeek": 6278,
     "timeMonth": 6278,
     "timeYear": 6278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-22": 61,
+      "2026-08-21": 2
+    }
   }
 ]
