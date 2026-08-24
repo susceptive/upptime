@@ -4,21 +4,21 @@
     "url": "https://wftraders.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wftraders.com.ico",
     "slug": "wf-traders",
-    "status": "down",
-    "uptime": "94.56%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "94.56%",
-    "time": 6615,
-    "timeDay": 975,
-    "timeWeek": 6615,
-    "timeMonth": 6615,
-    "timeYear": 6615,
+    "status": "up",
+    "uptime": "94.32%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "94.32%",
+    "time": 6111,
+    "timeDay": 1006,
+    "timeWeek": 6111,
+    "timeMonth": 6111,
+    "timeYear": 6111,
     "dailyMinutesDown": {
       "2026-08-22": 308,
       "2026-08-21": 2,
-      "2026-08-24": 0
+      "2026-08-24": 15
     }
   }
 ]
